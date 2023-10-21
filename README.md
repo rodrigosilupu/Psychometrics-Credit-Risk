@@ -1,3 +1,4 @@
+#Author: Rodrigo Silupú
 # Psychometrics and Credit Risk Assessment
 
 The integration of psychometric tools in credit risk assessment primarily seeks to estimate individuals' propensity to pay. This approach stems from a desire for inclusivity, as it allows for the consideration of future expectations linked to each applicant's personality traits. This method stands out over traditional approaches that focus exclusively on tangible factors, such as credit history (Ayling, 2018).
