@@ -21,21 +21,21 @@ The original test addresses the following statements under which the individual 
 
 I see myself as someone who...
 
-- Worries a lot.
-- Gets nervous easily.
-- Remains calm in tense situations. (R)
-- Is talkative.
-- Is extroverted, sociable.
-- Is reserved. (R)
-- Is original, comes up with new ideas.
-- Values artistic and aesthetic experiences.
-- Has an active imagination.
-- Is sometimes rude to others. (R)
-- Has a merciful nature.
-- Is considerate and kind to almost everyone.
-- Does thorough work.
-- Tends to be lazy. (R)
-- Does things efficiently.
+1. Worries a lot.
+2. Gets nervous easily.
+3. Remains calm in tense situations. (R)
+4.  Is talkative.
+5.  Is extroverted, sociable.
+6. Is reserved. (R)
+7.  Is original, comes up with new ideas.
+8. Values artistic and aesthetic experiences.
+9. Has an active imagination.
+10.  Is sometimes rude to others. (R)
+11.  Has a merciful nature.
+12. Is considerate and kind to almost everyone.
+13. Does thorough work.
+14. Tends to be lazy. (R)
+15. Does things efficiently.
 
 It's crucial to consider that questions 3, 6, 10, and 14 are scored inversely. Therefore, they are evaluated on a scale ranging from "Always" to "Never."
 
