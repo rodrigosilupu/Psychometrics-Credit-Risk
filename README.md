@@ -4,17 +4,17 @@ The integration of psychometric tools in credit risk assessment primarily seeks 
 
 The foundation of this model comes from research in the economic field, like the study by Goldfayn and Vellekoop (2018), which demonstrated a significant correlation between positive personality traits and the various stages of credit access. Studies have shown that it's less likely to reject credit applications from individuals with positive tendencies in the Big Five dimensions, and that these same individuals exhibit responsible payment tendencies (Pirog & Roberts, 2007; Tian et al., 2022; Goldfayn & Vellekoop, 2018; Brown & Taylor, 2014).
 
-Dimensions of the Psychometric Score:
+## Dimensions of the Psychometric Score:
 
-Conscientiousness: Represents self-discipline, rationality, and prudence in interactions.
+- **Conscientiousness**: Represents self-discipline, rationality, and prudence in interactions.
 
-Extraversion: Characterizes enthusiasm, sociability, and proactivity in dealing with others.
+- **Extraversion**: Characterizes enthusiasm, sociability, and proactivity in dealing with others.
 
-Neuroticism: Highlights emotional instability, manifesting in anxiety, low tolerance, and difficulty facing setbacks.
+- **Neuroticism**: Highlights emotional instability, manifesting in anxiety, low tolerance, and difficulty facing setbacks.
 
-Openness to Experiences: Focuses on curiosity, innovation, and creativity towards the unknown.
+- **Openness** to Experiences: Focuses on curiosity, innovation, and creativity towards the unknown.
 
-Agreeableness: Embodies altruistic tendencies like trust, empathy, and respect for others.
+- **Agreeableness**: Embodies altruistic tendencies like trust, empathy, and respect for others.
 
 
 The original test addresses the following statements under which the individual must position themselves:
