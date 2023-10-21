@@ -17,7 +17,7 @@ The foundation of this model comes from research in the economic field, like the
 - **Agreeableness**: Embodies altruistic tendencies like trust, empathy, and respect for others.
 
 
-The original test addresses the following statements under which the individual must position themselves:
+The test addresses the following statements under which the individual must position themselves:
 
 I see myself as someone who...
 
@@ -37,7 +37,21 @@ I see myself as someone who...
 14. Tends to be lazy. (R)
 15. Does things efficiently.
 
-It's crucial to consider that questions 3, 6, 10, and 14 are scored inversely. Therefore, they are evaluated on a scale ranging from "Always" to "Never."
+With the following response categories:
+
+1. Never
+2. Almost Never
+3. Neutral
+4. Almost Always
+5. Always
+
+It should be noted that questions 3, 6, 10, and 14 are measured on a reverse scale, meaning the responses to these questions are coded in the opposite or inverted manner compared to the other questions. That is, they are measured with the following response categories:
+
+1. Always
+2. Almost Always
+3. Neutral
+4. Almost Never
+5. Never
 
 With the Big Five dimensions as a foundation, the goal is to develop a model that classifies micro-entrepreneurs into two categories: good or bad payers. Various classification models will be explored in this process.
 
