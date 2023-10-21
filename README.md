@@ -54,7 +54,7 @@ It should be noted that questions 3, 6, 10, and 14 are measured on a reverse sca
 4. Almost Never
 5. Never
 
-With the Big Five dimensions as a foundation, the goal is to develop a model that classifies micro-entrepreneurs into two categories: good or bad payers. Various classification models will be explored in this process.
+With the Big Five dimensions as a foundation, the goal is to develop a model that calculates the probability of each individual being a good payer and classifies micro-entrepreneurs into two categories based on that probability: good or bad payers. Various classification models will be explored in this process.
 
 ## References:
 
